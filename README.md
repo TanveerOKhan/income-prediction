@@ -58,11 +58,7 @@ Generalization performance
 
 📈 Results
 Metric	Score
-Accuracy	XX%
-F1-Score	XX%
-ROC-AUC	XX%
-
-Replace XX% with your actual results.
+Accuracy	86%
 
 🔍 Key Insights
 
